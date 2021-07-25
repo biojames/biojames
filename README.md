@@ -15,5 +15,5 @@ primarily as an effort to introduce some kind of curation to my collection, but 
 of the code or the ideas underlying it will find its way into other projects. Most of the code is Python or Perl,
 some in C and C++, with a smattering of other languages. 
 
-![Video encoding](Video_encoding_snippets.md)
+[Video encoding](Video_encoding_snippets.md)
 
